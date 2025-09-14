@@ -78,7 +78,7 @@ The objective was to identify sales patterns, customer preferences, and outlet p
 
 If you found this project helpful, feel free to connect and share feedback:
 
-* 💼 [LinkedIn](www.linkedin.com/in/garvkaushik)
+* 💼 [LinkedIn](linkedin.com/in/garvkaushik)
 * 🐙 [GitHub](https://github.com/garv-kaushik)
 
 
